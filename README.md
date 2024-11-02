@@ -1,6 +1,7 @@
 # About Me :waving_hand:
 Hello everyone! My name is Victoria Vu and I'm a fourth year at UCLA studying cognitive science and minor in data science engineering. I have taken a multitude of high level computer science courses related to data science and machine learning, as well as high level psychology classes. I believe this has given me the tools needed to not only create programs that can interact with data, but also interpret and make it applicable in a business setting. Please reach out with opportunites at victoriiavu@ucla.edu!
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **nightpress/nightpress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
